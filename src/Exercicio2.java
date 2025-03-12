@@ -7,7 +7,6 @@ public class Exercicio2 {
         System.out.print("Digite o valor do Celsius: ");
         double celsius = sc.nextDouble();
 
-
         double conversao =  (celsius * 9/5) + 32;
 
         System.out.println("O valor do Fahrenheit: " + conversao);
